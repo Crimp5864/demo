@@ -5,3 +5,5 @@ echo "$(date)"
 
 echo 'The hostname is:'
 echo "$(hostname)"
+
+echo 'These commands are for demonstration only'
