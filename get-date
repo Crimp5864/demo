@@ -2,3 +2,6 @@
 
 echo 'The current date and time are:'
 echo "$(date)"
+
+echo 'The hostname is:'
+echo "$(hostname)"
